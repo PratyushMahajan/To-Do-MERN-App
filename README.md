@@ -1,8 +1,9 @@
 # To-Do-MERN-App
-ToDo Application Overview
+ToDo Application Overview:
 The ToDo Application is a comprehensive web application crafted using the MERN stack, comprising MongoDB for the database, Express.js for the server, React for the front end, and Node.js for server-side scripting. This application also utilizes Redux for effective state management and has been designed with responsiveness in mind, ensuring a seamless experience across various screen sizes.
 
-Running the Application
+Running the Application:
+
 Step 1: Install Dependencies
 Begin by installing all the necessary dependencies for both the client and server sides. Execute the command npm install or npm i to install all required packages.
 
