@@ -5,7 +5,7 @@ The ToDo Application is a comprehensive web application crafted using the MERN s
 # Running the Application:
 
 # Step 1: Install Dependencies
-Begin by installing all the necessary dependencies for both the client and server sides. Execute the command *npm install* or *npm i*  to install all required packages.
+Begin by installing all the necessary dependencies for both the client and server sides. Execute the command 'npm install' or *npm i*  to install all required packages.
 
 # Step 2: Configure MongoDB URL
 Update the MongoDB URL in the application by adding your database URL with the correct username and password. Run *node index.js* in your server-side terminal to verify a successful connection between the application and MongoDB.
